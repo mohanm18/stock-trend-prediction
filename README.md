@@ -12,7 +12,7 @@
   3. Closing Price vs Time Chart with 100ma & 200ma(200 days moving average)
   4. Predicted vs Original
  
-## Video demonstrating the working of the project. 
+## Video demonstrating the working of the project
   [DemoVideo](https://youtu.be/dHHKJOmddxg)
 
 ## Requirements
